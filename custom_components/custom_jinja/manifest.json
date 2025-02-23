@@ -1,0 +1,10 @@
+{
+	"domain": "custom_jinja",
+	"name": "Custom Jinja",
+	"documentation": "https://github.com/ariuser5/ha-custom-jinja",
+	"dependencies": [],
+	"codeowners": ["@ariuser5"],
+	"version": "1.0.0",	
+	"requirements": []
+  }
+  
