@@ -1,0 +1,13 @@
+{
+	"name": "Custom Jinja Functions",
+	"version": "1.0.0",
+	"slug": "custom_jinja",
+	"description": "Add custom Jinja functions for Home Assistant.",
+	"documentation": "https://github.com/ariuser5/ha-custom-jinja",
+	"issues": "https://github.com/ariuser5/ha-custom-jinja/issues",
+	"homepage": "https://github.com/ariuser5/ha-custom-jinja",
+	"license": "MIT",
+	"dependencies": [],
+	"codeowners": ["@ariuser5"],
+	"category": "integration"
+  }
